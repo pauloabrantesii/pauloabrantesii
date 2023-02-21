@@ -1,6 +1,6 @@
 ## **Paulo**, Js 4Ever
 
-Software Engineer :man_technologist:
+Front-end web development :man_technologist:
 
 ```javascript
 console.log("Hello World");
