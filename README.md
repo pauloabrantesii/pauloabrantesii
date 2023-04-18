@@ -38,8 +38,8 @@ console.log("Hello World");
 
 ### Redes sociais
 
-[<img width="35" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/danielgjl/)
-[<img width="35" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/danieljeronimo_)
+[<img width="35" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/paulo-roberto-128b5a254/)
+[<img width="35" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/paulo_robertoii/?igshid=YmMyMTA2M2Y%3D)
 
 <br />
 
